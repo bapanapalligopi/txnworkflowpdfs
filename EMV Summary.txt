@@ -1,0 +1,13 @@
+We have arrived at the summary of the EMV course! Over the period, we've covered a lot of ground on the EMV payment industry, and in this summary, we'll give you a quick overview of what we've learned.
+
+Firstly, we introduced you to EMV—what it is and why it's important for the payment industry. We discussed the benefits of using EMV chip cards, such as better security, reduced fraud, and increased interoperability between different payment networks.
+
+Next, we looked at how EMV chip cards function and the processes involved in securing a transaction. We talked about the role of EMVCo and international payment networks in defining the standards and specifications for EMV.
+
+We also reviewed the different aspects of the EMV card structure, including the characteristics of EMV chip cards and the software that powers them. We explored the EMV testing and certification process, how card personalization works, and understood the message structure.
+
+Then, we dove into the details of EMV transaction processing and the different verification methods used to authenticate a transaction, the cardholder, and the cardholder device. We discussed payment terminals’ capabilities, processing levels, how they communicate with EMV chip cards, what data is shared, and the three EMVCo Terminal Type Approval levels.
+
+Finally, we discussed card-not-present transactions, the different card payment models, including on-us and off-us transactions, and each party’s role in the payment process.
+
+We hope this course has provided you with a comprehensive understanding of the EMV payment industry and its workings. Thanks for joining us, and we hope to see you again soon! Happy learning!
